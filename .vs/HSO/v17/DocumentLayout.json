@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THANH\\Desktop\\HSO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|c:\\users\\thanh\\desktop\\hso\\assets\\scripts\\assembly-csharp\\cmd_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\cmd_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|C:\\Users\\THANH\\Desktop\\HSO\\assets\\scripts\\assembly-csharp\\readmessenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\readmessenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|C:\\Users\\THANH\\Desktop\\HSO\\assets\\scripts\\assembly-csharp\\tabinfochar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\tabinfochar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|C:\\Users\\THANH\\Desktop\\HSO\\assets\\scripts\\assembly-csharp\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|C:\\Users\\THANH\\Desktop\\HSO\\assets\\scripts\\assembly-csharp\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|C:\\Users\\THANH\\Desktop\\HSO\\assets\\scripts\\assembly-csharp\\avmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\avmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|C:\\Users\\THANH\\Desktop\\HSO\\assets\\scripts\\assembly-csharp\\mainrms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\mainrms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|C:\\Users\\THANH\\Desktop\\HSO\\assets\\scripts\\assembly-csharp\\cres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22393F35-9193-A484-3EED-452CBC2E50F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\cres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainRMS.cs",
+              "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\MainRMS.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\MainRMS.cs",
+              "ToolTip": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\MainRMS.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\MainRMS.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:26:22.161Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cmd_Message.cs",
+              "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\Cmd_Message.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\Cmd_Message.cs",
+              "ToolTip": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\Cmd_Message.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\Cmd_Message.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAjwC8BAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:11:07.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TabInfoChar.cs",
+              "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\TabInfoChar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\TabInfoChar.cs",
+              "ToolTip": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\TabInfoChar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\TabInfoChar.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAqwNcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:55:13.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\Player.cs",
+              "ToolTip": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\Player.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:32:03.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\Main.cs",
+              "ToolTip": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\Main.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\Main.cs",
+              "ViewState": "AgIAAIcBAAAAAAAAAAAqwJ4BAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:29:54.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvMain.cs",
+              "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\AvMain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\AvMain.cs",
+              "ToolTip": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\AvMain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\AvMain.cs",
+              "ViewState": "AgIAAOIBAAAAAAAAAAAswPsBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:29:30.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CRes.cs",
+              "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\CRes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\CRes.cs",
+              "ToolTip": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\CRes.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\CRes.cs",
+              "ViewState": "AgIAACgDAAAAAAAAAAAtwD0DAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:10:41.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadMessenge.cs",
+              "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\ReadMessenge.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\ReadMessenge.cs",
+              "ToolTip": "C:\\Users\\THANH\\Desktop\\HSO\\Assets\\Scripts\\Assembly-CSharp\\ReadMessenge.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\ReadMessenge.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAYwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:52:58.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
